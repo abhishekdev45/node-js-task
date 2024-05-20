@@ -15,7 +15,6 @@ const registerPatient = async (req, res) => {
       PsychiatristId,
     } = req.body;
 
-    console.log(password,"hi")
     if (!name || !address || !email || !password || !photo) {
       return res
         .status(400)
@@ -38,7 +37,9 @@ const registerPatient = async (req, res) => {
     });
 
     res.status(201).json({ success: true, data: patient });
+
   } catch (error) {
+
     if (error.name === "SequelizeValidationError") {
       const errors = error.errors.map((e) => e.message);
       return res.status(400).json({ success: false, errors });
