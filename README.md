@@ -14,9 +14,13 @@
 - **MySQL2**: Offers improved performance and support for modern MySQL features.
 - **Sequelize**: Simplifies database interactions by allowing you to work with JavaScript objects instead of writing raw SQL queries.
 
-### Postman collection
+
+
+## Postman collection
 
 view the postman collection [here](<https://frontend-task-green.vercel.app/>).
+
+
 
 ## API Endpoints
 
