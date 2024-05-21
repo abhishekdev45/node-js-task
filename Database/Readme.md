@@ -27,5 +27,6 @@ This folder contains the structure and data dump file for the database.
 
 ## Schema Diagram
 
+![Schema diagram](./lattice-innovation-schema-diagram.png)
 
 
