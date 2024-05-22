@@ -18,7 +18,7 @@
 
 ## Postman collection
 
-view the postman collection [here](<https://restless-flare-610948.postman.co/workspace/workspace1~253ef291-9a17-4d52-99cf-de6e163d546d/collection/28289887-0cd1fce2-0f2f-44fe-bd3b-8c4437368547?action=share&creator=28289887>).
+view the postman collection [here](<https://www.postman.com/restless-flare-610948/workspace/lattice-innovations/collection/28289887-0cd1fce2-0f2f-44fe-bd3b-8c4437368547>).
 
 
 
